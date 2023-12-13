@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: sbindir/myhello:9
+        image: sbindir/myhello:10
         ports:
         - containerPort: 8080
